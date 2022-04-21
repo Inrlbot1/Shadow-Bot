@@ -173,7 +173,7 @@
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*Give me a photo!*",
             "NO_API_KEY": "*You don't have an API key!*\nYou can get it here: remove.bg.",
-            "RBGING": "```ʀᴇᴍᴏᴠɪɴɢ ʙᴀᴄᴋɢʀᴏᴜɴᴅ```"
+            "RBGING": "```ɪɴʀʙᴏᴛ ʀᴇᴍᴏᴠɪɴɢ ʙᴀᴄᴋɢʀᴏᴜɴᴅ```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
@@ -201,11 +201,11 @@
             "NO_SPRT": "Is not found or not supported",
             "DOWNLOADING_SONG": "ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ",
             "DOWNLOADING_SING": "ɢᴇᴛ ʀᴇᴀᴅʏ ᴛᴏ ʜᴇᴀʀ ᴍᴇ ꜱɪɴɢ",
-            "UPLOADING_SONG": "ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ",
+            "UPLOADING_SONG": "ɪɴʀʟʙᴏᴛ ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ",
             "UPLOADING_SING": " ᴀʀᴇ ʏᴏᴜ ʀᴇᴀᴅʏ ᴛᴏ ʜᴇᴀʀ ",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=t1r_tmgQago``` \n\nif .video does not work try .get",
-            "DOWNLOADING_VIDEO": "ᴡᴀɪᴛ ᴀᴍ ꜱᴇᴀʀᴄʜɪɴɢ",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/P6qEIaHaIYc``` \n\nif .video does not work try .get",
+            "DOWNLOADING_VIDEO": "ᴡᴀɪᴛ ɪɴʀʟʙᴏᴛ  ᴀᴍ ꜱᴇᴀʀᴄʜɪɴɢ",
             "UPLOADING_VIDEO": "ʜᴀʜᴀ ꜰᴏᴜɴᴅ ɪᴛ",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
@@ -219,7 +219,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "\n*Reply to a photo or video!*\n",
-            "DOWNLOADING": "ᴄʀᴇᴀᴛɪɴɢ ꜱᴛɪᴄᴋᴇʀ"
+            "DOWNLOADING": "ɪɴʀʟʙᴏᴛ ᴄʀᴇᴀᴛɪɴɢ ꜱᴛɪᴄᴋᴇʀ"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -409,7 +409,7 @@
             "FOTO_DESC": "Sends the replied photo as spam.",
             "FOTO_FOT": "```Please Reply To Any Picture!```",
             "VİD_DESC": "Sends the replied video as spam.",
-            "VİD_NEED": "ᴘʟᴇᴀꜱᴇ ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴠɪᴅᴇᴏ!"
+            "VİD_NEED": "ᴘʟᴇᴀꜱᴇ ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴠɪᴅᴇᴏ ғᴏʀ ᴄʜᴇᴄᴋ ɪɴʀʟʙᴏᴛ!"
         },
         "carbon": {
             "CARBON_DESC": "Uses carbon.sh for Text-to-Image",
