@@ -10,7 +10,7 @@
 4. Click [FORK](https://github.com/SPARK-SHADOW/Shadow-Bot/fork)
 5. Click the url showing below to copy deploy template
 ```
-https://heroku.com/deploy?template=https://github.com/inrlbots1/Shadow-Bot
+https://heroku.com/deploy?template=https://github.com/inrlbot1/Shadow-Bot
 ``` 
 6. Now change SPARK-SHADOW with your github username and click ENJOY<br>
    <br>
